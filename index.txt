@@ -1,0 +1,2 @@
+command options arguments
+pwd : present working directory
